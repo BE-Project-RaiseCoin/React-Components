@@ -1,10 +1,10 @@
 import './App.css';
-import { SignUpForm } from './Components/SignUpForm/SignUpForm';
+import { Buttons } from './Components/Buttons/Buttons';
 
 function App() {
   return (
     <div>
-      <SignUpForm />
+      <Buttons />
     </div>
   );
 }
