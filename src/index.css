@@ -14,11 +14,11 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-  min-height: 100vh;
-  /*for login form background image*/
-	background: url('./Components/LoginForm/Assets/background.jpg') no-repeat;
-  background-size: cover;
-  background-position: center;
+	min-height: 100vh;
+	/*for login & signup form background image*/
+	/* background: url("./Components/LoginForm/Assets/background.jpg") no-repeat;
+	background-size: cover;
+	background-position: center; */
 }
 
 code {
