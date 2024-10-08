@@ -1,0 +1,56 @@
+.b1 {
+	padding-top: 0.625rem;
+	padding-bottom: 0.625rem;
+	padding-left: 1.25rem;
+	padding-right: 1.25rem;
+	margin-bottom: 0.5rem;
+	border-radius: 0.5rem;
+	font-size: 0.875rem;
+	line-height: 1.25rem;
+	font-weight: 500;
+	color: #ffffff;
+	background-color: #1d4ed8;
+}
+
+.b1:hover {
+	background-color: #1e40af;
+}
+
+.b2 {
+	padding-top: 0.625rem;
+	padding-bottom: 0.625rem;
+	padding-left: 1.25rem;
+	padding-right: 1.25rem;
+	margin-bottom: 0.5rem;
+	border-radius: 0.5rem;
+	border-width: 1px;
+	border-color: #e5e7eb;
+	font-size: 0.875rem;
+	line-height: 1.25rem;
+	font-weight: 500;
+	color: #111827;
+	background-color: #ffffff;
+}
+
+.b2:hover {
+	color: #1d4ed8;
+	background-color: #f3f4f6;
+}
+
+.b3 {
+	padding-top: 0.625rem;
+	padding-bottom: 0.625rem;
+	padding-left: 1.25rem;
+	padding-right: 1.25rem;
+	margin-bottom: 0.5rem;
+	border-radius: 0.5rem;
+	font-size: 0.875rem;
+	line-height: 1.25rem;
+	font-weight: 500;
+	color: #ffffff;
+	background-color: #1f2937;
+}
+
+.b3:hover {
+	background-color: #111827;
+}
